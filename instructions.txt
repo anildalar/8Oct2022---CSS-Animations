@@ -253,7 +253,19 @@ selector{
 https://www.w3schools.com/cssref/css3_pr_transform.asp
 
 
-CSS Transition 
+CSS 3
 
+
+
+CSS Transform
+
+CSS Transition 
+		tansition-property:
+		transition-duration:
+		transition-timing-function:linear;
+		
 CSS Animations
+		animation-name:
+		animation-duration:
+		animation-timing-function:linear;
 
